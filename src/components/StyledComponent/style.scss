@@ -1,0 +1,10 @@
+$myColor: white;
+$mybgColor: Blue;
+$myFontSize: 20px;
+
+.header {
+  color: $myColor;
+  background-color: $mybgColor;
+  padding: 20px;
+  font-size: $myFontSize;
+}
